@@ -24,3 +24,5 @@ gleam test  # Run the tests
 gleam shell # Run an Erlang shell
 ```
 # Unfinished_RPG_CLI_Game
+
+**A Fun Fact** : this is my first ever Gleam and fuctional programing project
